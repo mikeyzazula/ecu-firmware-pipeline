@@ -4,7 +4,6 @@
 #include <stdint.h>
 
 // TPMS (Tire Pressure Monitoring System) controller
-// Simulating the system you work with at PACCAR
 
 typedef struct {
     uint32_t tire_id;
